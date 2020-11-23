@@ -1,5 +1,5 @@
 class chain{
-constructer(bodyA,bodyB){
+constructor(bodyA,bodyB){
     var options= {
         bodyA:bodyA,
         bodyB:bodyB,

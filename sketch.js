@@ -66,4 +66,6 @@ function draw(){
     platform.display();
 
     log6.display();
+chain.display();
+
 }
